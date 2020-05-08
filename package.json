@@ -13,7 +13,7 @@
     "ffi",
     "bridge"
   ],
-  "os": [ 
+  "os": [
     "darwin"
   ],
   "version": "2.1.0",
@@ -29,13 +29,13 @@
   },
   "dependencies": {
     "debug": "*",
-    "ffi": "2",
-    "function-class": "^1.0.0",
-    "ref": "^1.3.2",
-    "ref-struct": "^1.0.2",
+    "ffi": "github:lxe/node-ffi#node-12",
+    "function-class": "github:ammora-team/node-function-class#node-12",
+    "ref": "github:ammora-team/ref#node-12-fix",
+    "ref-struct": "github:lxe/ref-struct#node-12",
     "setprototypeof": "^1.0.0"
   },
-  "devDependencies": {
+  "devDependencies_": {
     "libxmljs": "~0.14.3",
     "dox": "0.3.x",
     "memwatch-next": "*",
