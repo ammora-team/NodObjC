@@ -31,7 +31,7 @@
     "debug": "*",
     "ffi": "github:lxe/node-ffi#node-12",
     "function-class": "github:ammora-team/node-function-class#node-12",
-    "ref-napi": "^2.0.0",
+    "ref": "github:lxe/ref#node-12",
     "ref-struct": "github:lxe/ref-struct#node-12",
     "setprototypeof": "^1.0.0"
   },
