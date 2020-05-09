@@ -31,7 +31,7 @@
     "@ammora/ffi": "github:ammora-team/node-ffi#node-13",
     "@ammora/function-class": "github:ammora-team/node-function-class#node-12",
     "@ammora/ref": "github:ammora-team/ref#node-13",
-    "@ammora/ref-struct": "github:ammora-team/ref#node-13",
+    "@ammora/ref-struct": "github:ammora-team/ref-struct#node-13",
     "debug": "*",
     "setprototypeof": "^1.0.0"
   },
