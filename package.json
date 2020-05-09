@@ -30,10 +30,9 @@
   "dependencies": {
     "@ammora/function-class": "github:ammora-team/node-function-class#node-12",
     "debug": "*",
-    "ffi": "github:lxe/node-ffi#node-12",
-    "function-class": "github:ammora-team/node-function-class#node-12",
-    "ref-napi": "^2.0.0",
-    "ref-struct": "github:lxe/ref-struct#node-12",
+    "@ammora/ffi": "github:lxe/node-ffi#node-13",
+    "@ammora/ref": "github:ammora-team/ref#node-13",
+    "@ammora/ref-struct": "github:ammora-team/ref#node-13",
     "setprototypeof": "^1.0.0"
   },
   "devDependencies_": {
